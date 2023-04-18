@@ -1,4 +1,4 @@
-# muslim-names-webscrapping
+# muslim-names-webscraping
 12827 Boy names
 10192 Girl names
 23019 Total names
